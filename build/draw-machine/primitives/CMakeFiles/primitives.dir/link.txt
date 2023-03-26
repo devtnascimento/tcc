@@ -1,0 +1,2 @@
+/usr/bin/ar qc libprimitives.a CMakeFiles/primitives.dir/triangle.cpp.o
+/usr/bin/ranlib libprimitives.a

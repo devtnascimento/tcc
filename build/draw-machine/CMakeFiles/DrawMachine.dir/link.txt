@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/DrawMachine.dir/main.cpp.o -o DrawMachine  -lGL -lGLU primitives/libprimitives.a /usr/lib/libGL.so 

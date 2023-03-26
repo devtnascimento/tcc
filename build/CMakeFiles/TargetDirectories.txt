@@ -1,0 +1,11 @@
+/home/devtnascimento/workspace/tcc/build/CMakeFiles/edit_cache.dir
+/home/devtnascimento/workspace/tcc/build/CMakeFiles/rebuild_cache.dir
+/home/devtnascimento/workspace/tcc/build/draw-machine/CMakeFiles/DrawMachine.dir
+/home/devtnascimento/workspace/tcc/build/draw-machine/CMakeFiles/edit_cache.dir
+/home/devtnascimento/workspace/tcc/build/draw-machine/CMakeFiles/rebuild_cache.dir
+/home/devtnascimento/workspace/tcc/build/draw-machine/primitives/CMakeFiles/primitives.dir
+/home/devtnascimento/workspace/tcc/build/draw-machine/primitives/CMakeFiles/edit_cache.dir
+/home/devtnascimento/workspace/tcc/build/draw-machine/primitives/CMakeFiles/rebuild_cache.dir
+/home/devtnascimento/workspace/tcc/build/process-machine/CMakeFiles/ocv.dir
+/home/devtnascimento/workspace/tcc/build/process-machine/CMakeFiles/edit_cache.dir
+/home/devtnascimento/workspace/tcc/build/process-machine/CMakeFiles/rebuild_cache.dir

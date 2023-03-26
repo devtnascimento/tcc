@@ -1,11 +1,13 @@
-cmake_minimum_required(VERSION 3.1)
+add_executable(draw-machine main.cpp)
 
-project(DrawMachine)
+# link ogl lib
+target_link_libraries(draw-machine PRIVATE OpenGL::GL glfw)
 
-add_executable(DrawMachine main.cpp)
+# add primitives lib
+add_subdirectory(primitives)
+add_subdirectory(window)
+target_link_libraries(DrawMachine PRIVATE primitives)
+target_link_libraries(DrawMachine PRIVATE window)
 
-find_package(OpenGL REQUIRED)
-
-target_link_libraries(DrawMachine ${OPENGL_LIBRARIES})
 
 
